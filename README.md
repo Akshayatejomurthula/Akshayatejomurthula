@@ -95,7 +95,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshayatejomurthula&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshayatejomurthula07&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -103,7 +103,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshayatejomurthula&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Akshayatejomurthula07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -119,9 +119,11 @@
 ## ☁️ AWS Badge
 
 <p align="center">
+
 <a href="https://www.credly.com/earner/earned/badge/078254bc-121e-4196-b8be-3c1a70eff55b">
 <img src="https://img.shields.io/badge/AWS-Generative_AI_Foundations-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -149,7 +151,7 @@
 ## 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akshayatejomurthula&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Akshayatejomurthula07&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
