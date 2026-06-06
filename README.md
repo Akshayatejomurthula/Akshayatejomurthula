@@ -1,9 +1,10 @@
+```md
 <h1 align="center">👋 Hi, I'm Tejomurthula Akshaya</h1>
 
-<h3 align="center">CSE Student | AI Enthusiast | AWS Learner</h3>
+<h3 align="center">Computer Science Engineering Student | AI Enthusiast | AWS Learner | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;AWS+Learner;Python+Developer;Problem+Solver;Competitive+Programmer&center=true&width=550&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;AWS+Learner;Python+Developer;Full+Stack+Developer;169+Day+LeetCode+Streak;Problem+Solver&center=true&width=700&height=50">
 </p>
 
 ---
@@ -13,19 +14,19 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/tejomurthula-akshaya-4a5a62330">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Tejomurthula_akshaya/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-169_Day_Streak-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://akshayatejomurthula.github.io/portfolio">
-<img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://github.com/Akshayatejomurthula">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:akshayatejomurthula07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -34,38 +35,41 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 CSE Student at Gayatri Vidya Parishad College of Engineering for Women (A)
+- 🎓 B.Tech Computer Science & Engineering Student
+- 🏫 Gayatri Vidya Parishad College of Engineering for Women
+- 📊 CGPA: **9.27 / 10**
 - 🤖 Passionate about Artificial Intelligence & Intelligent Systems
 - ☁️ Learning AWS Cloud, DevOps & Generative AI
-- 💻 Strong interest in Software Development & Problem Solving
-- 🚀 Exploring real-world AI and Cloud applications
-- 📚 Strengthening DSA, OS, DBMS & Core CS concepts
-- 🔥 Consistent LeetCode problem solver
-- 🌱 Continuously learning modern technologies
+- 💻 Interested in Software Engineering & Full Stack Development
+- 🔥 Maintaining a **169-Day LeetCode Streak**
+- 🚀 Building AI and Cloud-based Projects
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 Featured Project
+
+### 🤖 Multi-Agent AI Research Assistant
+
+An AI-powered research assistant that decomposes complex research queries into specialized AI agent tasks and generates structured interactive reports.
+
+### Features
+
+- Multi-Agent Reasoning
+- Query Decomposition
+- Interactive Research Reports
+- Modern Responsive UI
+- AI Workflow Simulation
+
+🔗 Repository:
+https://github.com/Akshayatejomurthula/multi-agent-ai-research-assistant
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,nodejs,linux,git,github,vscode"/>
 
 </p>
 
@@ -73,33 +77,33 @@
 
 ## 🏆 Achievements
 
-- 🥇 Qualified Stage 1 of AlgoUniversity Tech Fellowship 2025
-- 📈 Ranked in Top 8% nationwide among 250,000+ participants
-- 🔥 Earned LeetCode 100 Days Badge 2026
+- 🥇 Top 8% Nationwide in AlgoUniversity Technology Fellowship 2025
+- 🔥 169-Day LeetCode Streak
 - ☁️ AWS Generative AI Foundations Badge Holder
-- 🏅 NASSCOM Gold Certified in Data Processing & Visualisation
-- 💡 Active learner in Competitive Programming & Cloud Technologies
+- 📈 Consistent Academic Excellence (CGPA 9.27)
+- 💻 Active GitHub Contributor
 
 ---
 
 ## 📜 Certifications
 
-- ☁️ AWS Academy Graduate – Generative AI Foundations
-- ☁️ AWS Cloud Quest – Cloud Practitioner
-- ☁️ AWS Certified Cloud Practitioner Practice Exam
-- 🧠 NPTEL – Getting Started with Competitive Programming
-- 💻 Infosys Springboard – JavaScript
-- 💻 Infosys Springboard – Node.js
-- 📊 NASSCOM FutureSkills – Data Processing & Visualisation
-- 🏅 NASSCOM Gold Certification – Data Processing & Visualisation
-- 🚀 AlgoUniversity Nurture Camp Participation Certificate
+- AWS Academy Graduate – Generative AI Foundations
+- AWS Cloud Quest – Cloud Practitioner
+- AWS Certified Cloud Practitioner Practice Exam
+- Infosys Springboard – JavaScript
+- Infosys Springboard – Node.js
+- NASSCOM FutureSkills Prime – Data Processing & Visualization
+- AlgoUniversity Technology Fellowship 2025
+- AlgoUniversity Nurture Camp
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshayatejomurthula07&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshayatejomurthula&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayatejomurthula&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -107,7 +111,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshayatejomurthula07&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Akshayatejomurthula&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -115,7 +119,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Tejomurthula_akshaya?theme=dark&font=Karma&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/Tejomurthula_akshaya?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 ---
@@ -132,34 +136,23 @@
 
 ---
 
-## 🌐 Portfolio
-
-<p align="center">
-
-<a href="https://akshayatejomurthula.github.io/portfolio">
-<img src="https://img.shields.io/badge/Visit-My_Portfolio-purple?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 ## 🌱 Currently Learning
 
-- AWS Cloud & DevOps
+- AWS Cloud
+- DevOps Fundamentals
 - Artificial Intelligence
 - Data Structures & Algorithms
 - Full Stack Development
-- Generative AI Concepts
+- Generative AI
 
 ---
 
-## 🎯 Goals
+## 🎯 2026 Goals
 
-- Build impactful AI & Cloud projects
-- Become a skilled Software Engineer
-- Master AWS & DevOps
-- Improve Competitive Programming
+- Build Production-Level AI Projects
+- Master AWS Cloud Technologies
+- Reach 300+ LeetCode Problems
+- Become MERN Stack Proficient
 - Contribute to Open Source
 
 ---
@@ -167,11 +160,12 @@
 ## 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akshayatejomurthula07&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Akshayatejomurthula&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Keep Learning • Keep Building • Keep Growing ⭐
+⭐ Keep Learning • Keep Building • Keep Growing ⭐
 </p>
+```
